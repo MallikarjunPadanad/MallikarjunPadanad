@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Java Backend Developer with 4+ years of professional experience** in backend engineering, enterprise systems, and production troubleshooting.
+I'm a **Java Backend Developer with 3+ years of professional experience** in backend engineering, enterprise systems, and production troubleshooting.
 
 I've worked with global organizations, including **Amazon and LexisNexis (RELX Group)**, and I'm focused on building robust, maintainable, and scalable backend applications.
 
