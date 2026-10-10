@@ -93,5 +93,4 @@
   <a href="https://github.com/MallikarjunPadanad"><img src="https://img.shields.io/badge/GitHub-MallikarjunPadanad-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="https://leetcode.com/u/Padanad-Mallikarjun/"><img src="https://img.shields.io/badge/LeetCode-Padanad--Mallikarjun-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
   <a href="mailto:mallikarjunpadanad69@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java backend focus" />
-</p>
+ </p>
