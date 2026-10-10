@@ -8,29 +8,38 @@
 <h3 align="center">Java Backend Developer · Software Development Engineer · Microservices</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MallikarjunPadanad/MallikarjunPadanad/main/gif3.gif" width="100%" alt="Animated coding banner" />
-</p>
-
-<p align="center">
   <a href="https://github.com/MallikarjunPadanad"><img src="https://img.shields.io/badge/GitHub-MallikarjunPadanad-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://leetcode.com/u/Padanad-Mallikarjun/"><img src="https://img.shields.io/badge/LeetCode-Padanad--Mallikarjun-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
   <a href="mailto:mallikarjunpadanad69@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Focus-Java%20%26%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java backend focus" />
 </p>
 
-👨‍💻 About Me
-<img align="right" src="https://raw.githubusercontent.com/MallikarjunPadanad/MallikarjunPadanad/main/1.gif" width="260" alt="Developer animation" />
+---
 
-I'm a Java Backend Developer with 4+ years of experience building, improving, and supporting enterprise backend systems. I've worked with teams supporting global organizations including Amazon and LexisNexis (RELX Group), with a focus on reliable APIs, microservices, automation, and performance.
-- ☕ Building with Java 8–17, Spring Boot, REST APIs, and microservices
-- 🧩 Interested in distributed systems, event-driven architecture, and system design
-- ⚡ Experienced in performance tuning, production troubleshooting, and root-cause analysis
-- 🚀 Hands-on with Kafka, RabbitMQ, Redis, Docker, Kubernetes, Jenkins, AWS, and Azure
-- 🧪 Value clean code, automated testing, CI/CD, and maintainable software
-- 🧠 Practicing Data Structures & Algorithms and sharpening software engineering fundamentals
-- 📍 Bengaluru, India
-<br clear="right" />
+## 👨‍💻 About Me
 
-💡 Career Highlights
+<table>
+  <tr>
+    <td valign="top" width="72%">
+      <p>I'm a <strong>Java Backend Developer with 4+ years of experience</strong> building, improving, and supporting enterprise backend systems. I've worked with teams supporting global organizations including <strong>Amazon</strong> and <strong>LexisNexis (RELX Group)</strong>, with a focus on reliable APIs, microservices, automation, and performance.</p>
+      <ul>
+        <li>☕ Building with <strong>Java 8–17, Spring Boot, REST APIs, and microservices</strong></li>
+        <li>🧩 Interested in <strong>distributed systems, event-driven architecture, and system design</strong></li>
+        <li>⚡ Experienced in performance tuning, production troubleshooting, and root-cause analysis</li>
+        <li>🚀 Hands-on with <strong>Kafka, RabbitMQ, Redis, Docker, Kubernetes, Jenkins, AWS, and Azure</strong></li>
+        <li>🧪 Value clean code, automated testing, CI/CD, and maintainable software</li>
+        <li>🧠 Practicing <strong>Data Structures &amp; Algorithms</strong> and sharpening software engineering fundamentals</li>
+        <li>📍 Bengaluru, India</li>
+      </ul>
+    </td>
+    <td valign="middle" align="right" width="28%">
+      <img src="https://raw.githubusercontent.com/MallikarjunPadanad/MallikarjunPadanad/main/gif3.gif" width="175" alt="Small coding animation" />
+    </td>
+  </tr>
+</table>
+
+## 💡 Career Highlights
+
 <table>
   <tr>
     <td align="center" width="33%"><h2>$180K+</h2><sub>Annualized savings delivered</sub></td>
@@ -44,13 +53,15 @@ I'm a Java Backend Developer with 4+ years of experience building, improving, an
   </tr>
 </table>
 
-- Automated high-volume operational workflows, eliminating manual intervention for 15,000–20,000 cases per month.
-- Improved distributed workflow throughput by 35% and case-resolution speed by 45%.
-- Migrated services from Java 8 to Java 17 and Spring Boot to Micronaut, improving cold-start performance by 40%.
-- Used Redis caching and backend tuning to reduce database load by 40% and API latency by 35%.
+- Automated high-volume operational workflows, eliminating manual intervention for **15,000–20,000 cases per month**.
+- Improved distributed workflow throughput by **35%** and case-resolution speed by **45%**.
+- Migrated services from **Java 8 to Java 17** and **Spring Boot to Micronaut**, improving cold-start performance by **40%**.
+- Used Redis caching and backend tuning to reduce database load by **40%** and API latency by **35%**.
 - Built and maintained CI/CD pipelines, automated tests, and containerized deployment workflows.
-🛠️ Tech Stack
-Languages
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -58,7 +69,7 @@ Languages
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-Backend & Architecture
+### Backend & Architecture
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
@@ -69,7 +80,7 @@ Backend & Architecture
   <img src="https://img.shields.io/badge/Resilience4j-2E7D32?style=for-the-badge" alt="Resilience4j" />
 </p>
 
-Databases, Messaging & Search
+### Databases, Messaging & Search
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -81,7 +92,7 @@ Databases, Messaging & Search
   <img src="https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white" alt="Apache Solr" />
 </p>
 
-Cloud, DevOps & Testing
+### Cloud, DevOps & Testing
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
@@ -95,23 +106,43 @@ Cloud, DevOps & Testing
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
 </p>
 
-🚀 Featured Projects
-🛒 E-Commerce Microservices Platform
-Java · Spring Boot · MySQL · Redis · Kafka · Elasticsearch
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Microservices Platform
+**Java · Spring Boot · MySQL · Redis · Kafka · Elasticsearch**
+
 - Structured backend capabilities around product catalog, orders, payments, and notifications.
-- Applied Redis caching to improve API response time from 500 ms to 50 ms in the project scenario.
+- Applied Redis caching to improve API response time from **500 ms to 50 ms** in the project scenario.
 - Used Elasticsearch for product discovery and Kafka for asynchronous, event-driven notifications.
-🎟️ Event Ticket Platform
-Java · Spring Boot · Gradle · REST APIs · Docker
+
+### 🎟️ Event Ticket Platform
+**Java · Spring Boot · Gradle · REST APIs · Docker**
+
 - Developing backend APIs and exploring clear service boundaries for an event-ticketing domain.
 - Working toward containerized local development and service orchestration with Docker Compose.
-🧠 Data Structures & Algorithms in Java
-Java · LeetCode · Problem-Solving Patterns
+
+### 🧠 Data Structures & Algorithms in Java
+**Java · LeetCode · Problem-Solving Patterns**
+
 - Practicing patterns including two pointers, sliding window, prefix sums, linked lists, binary search, and graphs.
 - Focused on readable solutions, optimal time and space complexity, and interview problem-solving skills.
-Explore my repositories for code, implementation details, and ongoing learning projects.
 
-📈 GitHub Overview
+> Explore my repositories for code, implementation details, and ongoing learning projects.
+
+## 🧩 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Padanad-Mallikarjun/">
+    <img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit my LeetCode profile" />
+  </a>
+</p>
+
+I solve Data Structures & Algorithms problems in **Java**, focusing on arrays, strings, binary search, dynamic programming, hash tables, and union-find.
+
+**[View my LeetCode profile →](https://leetcode.com/u/Padanad-Mallikarjun/)**
+
+## 📈 GitHub Overview
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MallikarjunPadanad&show_icons=true&hide_border=true&rank_icon=github" alt="Mallikarjun's GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunPadanad&layout=compact&hide_border=true" alt="Most-used languages" />
@@ -121,18 +152,20 @@ Explore my repositories for code, implementation details, and ongoing learning p
   <img src="https://streak-stats.demolab.com?user=MallikarjunPadanad&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MallikarjunPadanad/MallikarjunPadanad/main/gif2.gif.gif" width="320" alt="Animated coding GIF" />
-</p>
+## 🤝 Let's Connect
 
-🤝 Let's Connect
 <p>
   <a href="https://github.com/MallikarjunPadanad"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Padanad-Mallikarjun/"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:mallikarjunpadanad69@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-📧 Email: mallikarjunpadanad69@gmail.com
-💻 GitHub: MallikarjunPadanad
+📧 **Email:** [mallikarjunpadanad69@gmail.com](mailto:mallikarjunpadanad69@gmail.com)  
+💻 **GitHub:** [MallikarjunPadanad](https://github.com/MallikarjunPadanad)  
+🧩 **LeetCode:** [Padanad-Mallikarjun](https://leetcode.com/u/Padanad-Mallikarjun/)
+
+---
+
 <p align="center">
   <i>“Build with purpose. Improve with every commit.”</i><br />
   <img src="https://komarev.com/ghpvc/?username=MallikarjunPadanad&style=flat-square&color=blue" alt="Profile views" />
