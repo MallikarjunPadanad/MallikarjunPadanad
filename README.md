@@ -86,15 +86,6 @@
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
 </p>
 
-
-## 🧩 LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/Padanad-Mallikarjun/">
-    <img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit my LeetCode profile" />
-  </a>
-</p>
-
 ## 📈 GitHub Overview
 
 <p align="center">
