@@ -1,5 +1,3 @@
-# Hi, I'm Mallikarjun Padanad 👋
-
 <h1 align="center">
   Hey there, I'm Mallikarjun Padanad
   <img src="https://raw.githubusercontent.com/MallikarjunPadanad/MallikarjunPadanad/main/Hi.gif" width="32" alt="Waving hand" />
