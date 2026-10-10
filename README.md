@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/MallikarjunPadanad/MallikarjunPadanad/main/Hi.gif" width="32" alt="Waving hand" />
 </h1>
 
-<h3 align="center">Java Backend Developer · Software Development Engineer · Microservices</h3>
+<h3 align="center"> Software Development Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/MallikarjunPadanad"><img src="https://img.shields.io/badge/GitHub-MallikarjunPadanad-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
@@ -38,26 +38,6 @@
   </tr>
 </table>
 
-## 💡 Career Highlights
-
-<table>
-  <tr>
-    <td align="center" width="33%"><h2>$180K+</h2><sub>Annualized savings delivered</sub></td>
-    <td align="center" width="33%"><h2>45%</h2><sub>Faster case resolution</sub></td>
-    <td align="center" width="33%"><h2>40%</h2><sub>Lower database load</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><h2>15K–20K</h2><sub>Cases automated monthly</sub></td>
-    <td align="center"><h2>35%</h2><sub>Lower backend API latency</sub></td>
-    <td align="center"><h2>40%</h2><sub>Reduced service cold-start time</sub></td>
-  </tr>
-</table>
-
-- Automated high-volume operational workflows, eliminating manual intervention for **15,000–20,000 cases per month**.
-- Improved distributed workflow throughput by **35%** and case-resolution speed by **45%**.
-- Migrated services from **Java 8 to Java 17** and **Spring Boot to Micronaut**, improving cold-start performance by **40%**.
-- Used Redis caching and backend tuning to reduce database load by **40%** and API latency by **35%**.
-- Built and maintained CI/CD pipelines, automated tests, and containerized deployment workflows.
 
 ## 🛠️ Tech Stack
 
@@ -106,28 +86,6 @@
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito" />
 </p>
 
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Microservices Platform
-**Java · Spring Boot · MySQL · Redis · Kafka · Elasticsearch**
-
-- Structured backend capabilities around product catalog, orders, payments, and notifications.
-- Applied Redis caching to improve API response time from **500 ms to 50 ms** in the project scenario.
-- Used Elasticsearch for product discovery and Kafka for asynchronous, event-driven notifications.
-
-### 🎟️ Event Ticket Platform
-**Java · Spring Boot · Gradle · REST APIs · Docker**
-
-- Developing backend APIs and exploring clear service boundaries for an event-ticketing domain.
-- Working toward containerized local development and service orchestration with Docker Compose.
-
-### 🧠 Data Structures & Algorithms in Java
-**Java · LeetCode · Problem-Solving Patterns**
-
-- Practicing patterns including two pointers, sliding window, prefix sums, linked lists, binary search, and graphs.
-- Focused on readable solutions, optimal time and space complexity, and interview problem-solving skills.
-
-> Explore my repositories for code, implementation details, and ongoing learning projects.
 
 ## 🧩 LeetCode Profile
 
@@ -136,10 +94,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit my LeetCode profile" />
   </a>
 </p>
-
-I solve Data Structures & Algorithms problems in **Java**, focusing on arrays, strings, binary search, dynamic programming, hash tables, and union-find.
-
-**[View my LeetCode profile →](https://leetcode.com/u/Padanad-Mallikarjun/)**
 
 ## 📈 GitHub Overview
 
@@ -158,15 +112,4 @@ I solve Data Structures & Algorithms problems in **Java**, focusing on arrays, s
   <a href="https://github.com/MallikarjunPadanad"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/Padanad-Mallikarjun/"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:mallikarjunpadanad69@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-📧 **Email:** [mallikarjunpadanad69@gmail.com](mailto:mallikarjunpadanad69@gmail.com)  
-💻 **GitHub:** [MallikarjunPadanad](https://github.com/MallikarjunPadanad)  
-🧩 **LeetCode:** [Padanad-Mallikarjun](https://leetcode.com/u/Padanad-Mallikarjun/)
-
----
-
-<p align="center">
-  <i>“Build with purpose. Improve with every commit.”</i><br />
-  <img src="https://komarev.com/ghpvc/?username=MallikarjunPadanad&style=flat-square&color=blue" alt="Profile views" />
 </p>
