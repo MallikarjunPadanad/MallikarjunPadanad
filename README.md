@@ -133,7 +133,7 @@ I've worked with global organizations, including **Amazon and LexisNexis (RELX G
     <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/dufffttt/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/mallikarjun.padanad/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
