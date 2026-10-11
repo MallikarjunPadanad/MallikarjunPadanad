@@ -105,21 +105,6 @@ I've worked with global organizations, including **Amazon and LexisNexis (RELX G
   </a>
 </p>
 
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MallikarjunPadanad&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MallikarjunPadanad&layout=compact&hide_border=true" alt="Most-used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MallikarjunPadanad&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
